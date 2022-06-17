@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+    <el-button>你好，按钮。</el-button>
     <nav>
       <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link>

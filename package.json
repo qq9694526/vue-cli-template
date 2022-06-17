@@ -1,6 +1,6 @@
 {
   "name": "vue-cli-plugin-template",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "vue-cli插件开发初体验-模板",
   "main": "index.js",
   "scripts": {
